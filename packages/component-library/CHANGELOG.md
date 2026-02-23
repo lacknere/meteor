@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.27.0
+
+### Minor Changes
+
+- [#1052](https://github.com/shopware/meteor/pull/1052) [`02baae0`](https://github.com/shopware/meteor/commit/02baae02835ba8323ef223a400c2a9b0d76a72c5) Thanks [@gweiermann](https://github.com/gweiermann)! - use <Teleport /> for <mt-floating-ui /> instead of manual DOM manipulation
+
 ## 4.26.0
 
 ### Minor Changes
